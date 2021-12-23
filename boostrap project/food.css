@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+
+.background-image{
+    background-image: url("manga/mangas4.jpg");
+    min-height: 460px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+.imglol{
+    height: 520px;
+}
+.banner h3{
+    font-family: 'Pushster', cursive;
+}
+.card-title{
+    text-transform: capitalize;
+}
+#lee{
+    height: 50px;
+    width: 50px;
+}
+
+.lee{
+    width: 10px;
+    height: 10px;
+}
+.saver{
+    display: flex;
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.saver .fas{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+.h3lee{
+    color: #0d6efd;
+    border-radius: 15px;
+    padding: 8px;
+    background-color: #ffffff;
+    display: inline-block;
+}
+.footer{
+    background-color: #fec0c0;
+    padding: 40px;
+    margin-top: 20px;
+}
+.footer a{
+    text-decoration: none;
+    font-size: 18px;
+}
+.footer h4{
+    padding: 20px 0px 20px 0px;
+}
+.lea a{
+    /* padding: 0px 4px 0px 4px; */
+    margin: 0px 7px 0px 7px;
+}
